@@ -17,6 +17,9 @@ module.exports = {
       type: "json",
     },
   ],
+  scripts: {
+    postchangelog: "prettier --write . --ignore-path=node_modules/**",
+  },
   types: [
     {
       type: "feat",
