@@ -9,7 +9,11 @@
       "type": "json"
     },
     {
-      "filename": "packages/*/package.json",
+      "filename": "packages/first/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/second/package.json",
       "type": "json"
     }
   ]
