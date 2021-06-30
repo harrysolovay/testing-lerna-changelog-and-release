@@ -2,5 +2,5 @@
   "$schema": "https://json.schemastore.org/lerna",
   "npmClient": "npm",
   "packages": ["packages/*"],
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

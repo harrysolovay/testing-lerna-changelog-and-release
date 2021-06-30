@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/harrysolovay/testing-lerna-changelog-and-release/compare/v1.0.1...v1.0.2) (2021-06-30)
+
+### Others
+
+- **release:** 1.0.1 ([e65e62d](https://github.com/harrysolovay/testing-lerna-changelog-and-release/commit/e65e62d294de7660bb0896a17663a013e603e077))
+- fix bump file references ([d60766d](https://github.com/harrysolovay/testing-lerna-changelog-and-release/commit/d60766de939d1d0145861ef923f94385404a6dfc))
+
 ### [1.0.1](https://github.com/harrysolovay/testing-lerna-changelog-and-release/compare/v1.1.0...v1.0.1) (2021-06-30)
 
 ### Others
