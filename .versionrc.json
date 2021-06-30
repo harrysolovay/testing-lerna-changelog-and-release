@@ -1,7 +1,15 @@
 {
   "bumpFiles": [
     {
-      "filename": "**/package.json",
+      "filename": "package.json",
+      "type": "json"
+    },
+    {
+      "filename": "first/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "second/package.json",
       "type": "json"
     },
     {
