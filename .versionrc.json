@@ -1,0 +1,20 @@
+{
+  "bumpFiles": [
+    {
+      "filename": "package.json",
+      "type": "json"
+    },
+    {
+      "filename": "lerna.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/first/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "packages/second/package.json",
+      "type": "json"
+    }
+  ]
+}
