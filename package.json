@@ -8,8 +8,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional",
+      "@commitlint/config-lerna-scopes"
+    ]
+  },
   "devDependencies": {
+    "@commitlint/config-lerna-scopes": "^12.1.4",
     "lerna": "^4.0.0",
     "standard-version": "^9.3.0"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4"
   }
 }
